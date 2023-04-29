@@ -1,1 +1,0 @@
-updated code string returned by the 'improve_code' command
